@@ -1,0 +1,25 @@
+Sub New_Question()
+'
+' New_Question Macro
+'
+
+'
+    Range("B3").Select
+    With Selection.Font
+        .ThemeColor = xlThemeColorDark1
+        .TintAndShade = 0
+    End With
+    Calculate
+End Sub
+Sub Show_Answer()
+'
+' Show_Answer Macro
+'
+
+'
+    Range("B3").Select
+    With Selection.Font
+        .ColorIndex = xlAutomatic
+        .TintAndShade = 0
+    End With
+End Sub
