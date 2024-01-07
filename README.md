@@ -1,5 +1,5 @@
 This spreadsheet is meant to be used for multiplaction and division practice. There are 3 sheets in the file. The first sheet is a gridded multiplcation table.
-Do not alter this table. It serves as a reference for the other two sheets. The other 2 sheets will show two bottons.
+Do not alter this table. It serves as a reference for the other two sheets. The other 2 sheets will show two buttons.
 
 -- The first button says "New Question". When pressed it will generate a random question while keepingthe answer hidden.
 
