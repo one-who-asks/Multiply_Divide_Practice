@@ -1,6 +1,8 @@
 This spreadsheet is meant to be used for multiplaction and division practice. There are 3 sheets in the file. The first sheet is a gridded multiplcation table.
 Do not alter this table. It serves as a reference for the other two sheets. The other 2 sheets will show two bottons.
+
 -- The first button says "New Question". When pressed it will generate a random question while keepingthe answer hidden.
+
 -- The second button says "Show Answer". When pressed it will reveal the solution to the randomly generated question.
 
 This is a macro enabled excel file. Since it is coming from another computer (mine), it will likely be blocked, and the macro won't work after downloading.
